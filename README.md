@@ -1,1 +1,1 @@
-# web3_bioscoop_2324
+# Project Web 3 - Bioscoop
