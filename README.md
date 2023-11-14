@@ -21,9 +21,7 @@ Het onderwerp van dit project is om een webapplicatie te ontwikkelen voor een bi
 
 Voor de backend zal je gebruik moeten maken van Node.js gecombineerd met het Express framework (of gelijkaardig). De bedoeling is dat je een REST API server maakt, zodanig dat de frontend applicatie zijn data kan opvragen a.h.v. REST operaties.
 
-Je zal ook een databank (MySQL, ProstgreSQL, MongoDB, ...) moeten aanmaken en deze koppelen aan uw Node.js backend. Je kan hiervoor gebruik maken van een ORM zoals Prisma (wat we in de lessen besproken hebben). Je krijgt hiervoor al reeds een relationeel gegevensmodel mee (terug te vinden in de project folder) maar je mag dit steeds uitbreiden met extra elementen.
-
-[Relationeel gegevensmodel](./project/DB_schema.pdf)
+Je zal ook een databank (MySQL, ProstgreSQL, MongoDB, ...) moeten aanmaken en deze koppelen aan uw Node.js backend. Je kan hiervoor gebruik maken van een ORM zoals Prisma (wat we in de lessen besproken hebben). Je krijgt hiervoor al reeds een relationeel gegevensmodel mee (terug te vinden in de PDF) maar je mag dit steeds uitbreiden met extra elementen.
 
 ### Structuur
 
@@ -122,44 +120,12 @@ Ik heb hier ook automatisch toegang toe. Ik kan deze repositories heel simpel op
 
 ### Stappenplan
 
-1. Surf naar volgende link [GitHub opdracht link](https://classroom.github.com/a/gwF8wGO0) en koppel jouw GitHub account aan de classroom.
-2. Je krijgt in principe zoals te zien is in de afbeelding een lijst met namen te zien, klik op jouw naam zodanig dat de koppeling gemaakt kan worden. (Vanaf dit moment wordt jouw repository voor jou klaar gemaakt in uw account).
-
-![Assignment Github Classroom!](./project/classroom_assignment.png)
-
-3. Je krijgt normaal gezien nog eens een bevestigingsscherm met de gegevens over de aangemaakt repository. Als je hierop door klikt kan je naar uw repository gaan en deze repository dus clonen via VSCode of manueel via de commandline.
-
-![Bevestiging Opdracht!](./project/classroom_repo.png)
-
-4. Eénmaal in jouw persoonlijke repository kan je dus vanaf nu werken met deze repository. De bedoeling is dus dat je enkel en alleen uw project hierin maakt en regelmatig een commit doet van uw werk, dat ik dit makkelijk kan opvolgen.
-
-![Persoonlijke repository!](./project/classroom_repo_git.png)
-
-5. In VSCode kan je nu makkelijk jouw repository clonen en beginnen werken aan dit project.
+Bekijk de PDF op Chamilo hiervoor!
 
 ![VSCode!](./project/vscode.png)
 
 > [!IMPORTANT]
 > Er staat geen minimum op het aantal commits dat er nodig zijn. Maar om een zeker opvolging te hebben is het natuurlijk niet de bedoeling dat je maar 1 commit doet voor het volledige project. Je zal zoals bij elk project onder versiebeheer het beste genoeg commits doen.
-
-## Deadline
-
-### Eerste kans
-
-De **deadline** voor de eerste kans ligt op **8 Januari 2024 - 23h59** om het project in te dienen. Je zal dit ook nog eens voor administratieve redenen als een zip moeten uploaden op Chamilo bij de opdracht die open staat. Let dus goed op de deadline.
-
-De **verdediging** van de eerste kans gaat door op **9 Januari 2024 - op afspraak** via Teams. Er zal binnenkort een link gedeeld worden waarbij je een tijdsslot kan boeken om uw project te verdedigen en een demo te geven.
-
-### Finale kans
-
-De **deadline** voor de finale kans ligt op **22 Januari 2024 - 23h59** om het project in te dienen. Je zal dit ook nog eens voor administratieve redenen als een zip moeten uploaden op Chamilo bij de opdracht die open staat. Let dus goed op de deadline.
-
-Voor de finale kans is het meestal zo dat je mag verder werken aan het project om de feedback die je gekregen hebt te verwerken.
-
-De **verdediging** van de eerste kans gaat door op **23 Januari 2024 - op afspraak** via Teams. Er zal binnenkort een link gedeeld worden waarbij je een tijdsslot kan boeken om uw project te verdedigen en een demo te geven.
-
-> [!IMPORTANT]
-> De deadline is een definitieve deadline, je verliest de schrijfrechten automatisch op de deadline op de repository. Dus organiseer goed jouw werk.
 
 ## Vragen
 
